@@ -13,11 +13,11 @@
  */ 
 /* $ siginifica que termine con lo espicificado */
 a[href$="org"] {
-    background-color: aqua;
+    background-color: rgb(79, 237, 237);
  }
 
  a[href^="#"] {
-    background-color: red;
+    background-color: rgb(248, 26, 26);
  }
 
 
